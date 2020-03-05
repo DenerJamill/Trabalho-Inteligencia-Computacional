@@ -1,1 +1,1 @@
-# Trabalho-Ronaldo
+# Trabalho da Cadeira de Inteligência computacional
